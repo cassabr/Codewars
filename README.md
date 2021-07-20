@@ -15,5 +15,3 @@ Programming tasks (Kata)
 
 ## [<img alt="png" src="https://user-images.githubusercontent.com/81202040/126399758-aa626694-af2d-4930-9f3a-95bd6db9a421.png" width="50" height="50"/>](https://github.com/cassabr/Codewars/tree/main/Python) [Python](https://github.com/cassabr/Codewars/tree/main/Python)
 
-
-Enjoy!
