@@ -1,7 +1,7 @@
 --> Array_Mean.py
 
-Find Mean: \n
-codewars.com/kata/55d277882e139d0b6000005d
+Find Mean:
+https://www.codewars.com/kata/55d277882e139d0b6000005d
 
 **************************************************************
 --> Reversed_Words.py
